@@ -34,3 +34,9 @@ As the snake eats food, its length increases. The player must carefully control 
 This project was created to practice **Python programming, game logic, keyboard event handling, collision detection, loops, conditions and real-time interaction**.
 
 ---
+
+<table>
+<tr>
+<td>🐍 Snake Movement</td>
+<td>🍎 Random Food</td>
+</tr>
