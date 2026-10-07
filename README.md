@@ -10,3 +10,11 @@
   <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge">
   <img src="https://img.shields.io/badge/Project-Python-orange?style=for-the-badge">
 </p>
+
+<p>
+  A classic Snake Game developed using Python.
+  <br>
+  Control the snake, eat the food, increase your score and try to achieve the highest score! 🏆
+</p>
+
+</div>
