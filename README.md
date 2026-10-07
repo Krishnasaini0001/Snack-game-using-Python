@@ -50,3 +50,11 @@ This project was created to practice **Python programming, game logic, keyboard 
 <td>🎮 Keyboard Controls</td>
 <td>🔄 Game Over System</td>
 </tr>
+
+<tr>
+<td>⚡ Real-Time Gameplay</td>
+<td>🏆 Score Challenge</td>
+</tr>
+</table>
+
+---
