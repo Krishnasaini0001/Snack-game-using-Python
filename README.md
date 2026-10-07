@@ -40,3 +40,8 @@ This project was created to practice **Python programming, game logic, keyboard 
 <td>🐍 Snake Movement</td>
 <td>🍎 Random Food</td>
 </tr>
+
+<tr>
+<td>📊 Score Tracking</td>
+<td>💥 Collision Detection</td>
+</tr>
