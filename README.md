@@ -45,3 +45,8 @@ This project was created to practice **Python programming, game logic, keyboard 
 <td>📊 Score Tracking</td>
 <td>💥 Collision Detection</td>
 </tr>
+
+<tr>
+<td>🎮 Keyboard Controls</td>
+<td>🔄 Game Over System</td>
+</tr>
