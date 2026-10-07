@@ -58,3 +58,18 @@ This project was created to practice **Python programming, game logic, keyboard 
 </table>
 
 ---
+
+## 🛠️ Technologies Used
+
+<div align="center">
+
+| Technology | Purpose |
+|------------|---------|
+| 🐍 **Python** | Main programming language |
+| 🎮 **Pygame** | Game development and graphics |
+| 💻 **VS Code** | Development environment |
+| 🔧 **Git & GitHub** | Version control and project hosting |
+
+</div>
+
+---
