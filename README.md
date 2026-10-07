@@ -18,3 +18,19 @@
 </p>
 
 </div>
+
+---
+
+## 📌 About The Project
+
+**Snake Game** is a classic arcade-style game developed using **Python**.
+
+The objective of the game is simple:
+
+> 🐍 Control the snake → 🍎 Eat the food → 📈 Increase your score → 🏆 Beat your high score
+
+As the snake eats food, its length increases. The player must carefully control the snake and avoid collisions with the walls and its own body.
+
+This project was created to practice **Python programming, game logic, keyboard event handling, collision detection, loops, conditions and real-time interaction**.
+
+---
