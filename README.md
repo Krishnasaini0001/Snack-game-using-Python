@@ -34,6 +34,7 @@ As the snake eats food, its length increases. The player must carefully control 
 This project was created to practice **Python programming, game logic, keyboard event handling, collision detection, loops, conditions and real-time interaction**.
 
 ---
+
 <div align="center">
   
 <table>
@@ -59,6 +60,7 @@ This project was created to practice **Python programming, game logic, keyboard 
 </table>
 
 </div>
+
 ---
 
 ## 🛠️ Technologies Used
